@@ -1,0 +1,153 @@
+body{
+  background-color: rgb(231, 247, 243);
+text-align: center;
+font-family: Merriweather ;
+
+
+}
+
+p{
+  font-family: 'Montserrat',Arial, Helvetica, sans-serif; 
+  font-size: 18px;
+}
+
+.top-div{
+  padding-top: 100px;
+  
+}
+.pro-pic{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: contain;
+}
+h1{
+  font-family: Sacramento;
+font-size: 5.625rem;
+margin-top: 50px auto 0 auto;
+color: #66bfbf ;
+}
+h2{
+  font-family: 'Montserrat' , sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf ;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e ;
+  font-size: 23px;
+ 
+}
+
+.pro{
+  text-decoration: underline;
+  
+}
+
+.sec-cloud{
+  position: absolute;
+left: 200px;
+top: 400px;
+
+  
+}
+.top-cloud{
+  position: absolute;
+right: 200px;
+top: 50px;
+
+}
+ .middle-container{
+
+margin-top: 100px;
+ 
+ }
+.skill-row{
+  width: 50%;
+  position: relative;
+  margin: 100px auto 100px auto ;
+  text-align: left;
+line-height: 2;
+
+
+}
+.computer{
+width: 25%;
+height: 150px;
+border-radius: 50%;
+float: left;
+margin-right: 30px;
+object-fit: contain;
+
+
+
+}
+
+
+
+
+.chillies{
+  width: 25%;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: contain;
+float: right;
+margin-left: 30px;
+}
+
+
+
+.contact-me{
+  margin-bottom: 260px;
+  margin-top: 200px;
+}
+
+.btn{
+  height: 50px;
+  margin-bottom: 10px;
+  width: 200px;
+  background-color: #4ebebe;
+color: white;
+font-family: Merriweather,sans-serif ;
+font-size: 16px;
+border-style: none;
+border-radius: 30px;
+cursor: pointer;
+transition: 0.40s;
+
+}
+.btn:hover{
+width: 300px;
+height: 70px;
+}
+
+.btn:active{
+  opacity: 0.2;
+}
+.bottom-container{
+  background-color:  #4ebebe;
+  height: 400px;
+text-align: center;
+padding-top: 100px;
+}
+.footer-link{
+  font-size: 25px;
+  margin-right: 50px;
+  margin-left: 100px;
+  margin-bottom: 100px;
+text-align: center;
+color: #11999E ;
+text-decoration: none;
+font-family: 'Montserrat', sans-serif ;
+
+}
+
+.footer-link:hover{
+  color: white;
+}
+.user{
+  color: white;
+  margin-top: 80px;
+  font-size: 20px;
+}
